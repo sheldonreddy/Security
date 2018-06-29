@@ -1,0 +1,10 @@
+D:\Dir\CNST\Nedbank\dotnetprojects\SecureStringTextBox\SecureStringTextBox\SecureStringTextBox\obj\Debug\SecureStringTextBox.csprojResolveAssemblyReference.cache
+D:\Dir\CNST\Nedbank\dotnetprojects\SecureStringTextBox\SecureStringTextBox\SecureStringTextBox\obj\Debug\SecureStringTextBox.DemoForm.resources
+D:\Dir\CNST\Nedbank\dotnetprojects\SecureStringTextBox\SecureStringTextBox\SecureStringTextBox\obj\Debug\SecureStringTextBox.Properties.Resources.resources
+D:\Dir\CNST\Nedbank\dotnetprojects\SecureStringTextBox\SecureStringTextBox\SecureStringTextBox\obj\Debug\SecureStringTextBox.SSTextBox.resources
+D:\Dir\CNST\Nedbank\dotnetprojects\SecureStringTextBox\SecureStringTextBox\SecureStringTextBox\obj\Debug\SecureStringTextBox.csproj.GenerateResource.Cache
+D:\Dir\CNST\Nedbank\dotnetprojects\SecureStringTextBox\SecureStringTextBox\SecureStringTextBox\bin\Debug\NedbankAES.pdb
+D:\Dir\CNST\Nedbank\dotnetprojects\SecureStringTextBox\SecureStringTextBox\SecureStringTextBox\obj\Debug\NedbankAES.pdb
+D:\Dir\CNST\Nedbank\dotnetprojects\SecureStringTextBox\SecureStringTextBox\SecureStringTextBox\bin\Debug\NedbankAES.dll.config
+D:\Dir\CNST\Nedbank\dotnetprojects\SecureStringTextBox\SecureStringTextBox\SecureStringTextBox\bin\Debug\NedbankAES.dll
+D:\Dir\CNST\Nedbank\dotnetprojects\SecureStringTextBox\SecureStringTextBox\SecureStringTextBox\obj\Debug\NedbankAES.dll
