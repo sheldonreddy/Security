@@ -8,9 +8,10 @@ Cryptography-Based Applications.
 		
 ###### Languages & IDEs:
 		1. C#, Visual Studio 2017
-		2. MATLAB R2018b
+		2. MATLAB R2018a
 		
 ###### Applicaitons:
-		1. Advanced Encryption Standard (C#)
+		1. Advanced Encryption Standard (AES) (C#, VS2015)
+			AES:		Windows-Form-Application (GUI) demo of AES256 using SecureString Textbox
+			AESapp2:	As above, includes Assembly file for interface & provide MATLAB with Cryptography Support 
 		
-
