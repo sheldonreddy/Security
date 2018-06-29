@@ -1,0 +1,10 @@
+D:\Dir\Learning\Security\Applications\AES\crypto\obj\Debug\aes.csprojResolveAssemblyReference.cache
+D:\Dir\Learning\Security\Applications\AES\crypto\obj\Debug\aes.csproj.GenerateResource.Cache
+D:\Dir\Learning\Security\Applications\AES\crypto\bin\Debug\cryptoAES.pdb
+D:\Dir\Learning\Security\Applications\AES\crypto\obj\Debug\cryptoAES.DemoForm.resources
+D:\Dir\Learning\Security\Applications\AES\crypto\obj\Debug\cryptoAES.Properties.Resources.resources
+D:\Dir\Learning\Security\Applications\AES\crypto\obj\Debug\cryptoAES.SSTextBox.resources
+D:\Dir\Learning\Security\Applications\AES\crypto\obj\Debug\cryptoAES.pdb
+D:\Dir\Learning\Security\Applications\AES\crypto\bin\Debug\cryptoAES.exe.config
+D:\Dir\Learning\Security\Applications\AES\crypto\bin\Debug\cryptoAES.exe
+D:\Dir\Learning\Security\Applications\AES\crypto\obj\Debug\cryptoAES.exe
