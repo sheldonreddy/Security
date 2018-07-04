@@ -32,7 +32,7 @@ Features:
 			
 			a. LOAD cryptoAES.dll into your project
 									
-				NET.addAssembly('D:\Dir\CNST\Nedbank\matlabprojects\testDLLinteg\NedbankAES.dll');		<- THIS IS FOR MATLAB, CHANGE FOR YOUR USAGE
+				NET.addAssembly('...\cryptoAES.dll');		<- THIS IS FOR MATLAB, CHANGE FOR YOUR USAGE
 				
 			b. Launch GUI
 			
